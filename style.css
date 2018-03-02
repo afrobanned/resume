@@ -1,5 +1,5 @@
 body{
-  background-color:white;
+  background-color:purple;
   color:black;
   font-family;
 }
@@ -18,13 +18,18 @@ img{
   width: 200px;
 }
 .right{
-  width:200px;
+  width:300px;
   float: right;
+  background-color: purple;
 }
 .left{
-  width:500px;
+  width:700px;
   float: left;
+  background-color: yellow
 }
 .container{
-  width:700px;
+  width:1000px;
+}
+.potato{
+  color:orange;
 }
