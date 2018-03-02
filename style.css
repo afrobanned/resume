@@ -30,6 +30,7 @@ img{
 }
 .container{
   width:1000px;
+  margin:auto;
 }
 .potato{
   color:orange;
