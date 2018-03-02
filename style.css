@@ -16,7 +16,7 @@ p{
 img{
   height: 200px;
   width: 200px;
-  transform:rotate(90degrees);
+  transform:rotate(270deg);
 }
 .right{
   width:300px;
